@@ -13,7 +13,7 @@
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <p>
-Hello, I'm Swapnil Palsapure, currently pursuing a degree in Electronics and Telecommunication Engineering from GCOEN, with an expected graduation in 2025. Alongside my studies, I'm currently working on Building Interactive PowerBI Dashboard, SQL Projects and Python Libraries.Currently I'm exploring in Machine Learning, NLP and Deep Learning Domain. My passion for technology extends beyond just coding; I enjoy staying updated with the latest industry trends and continuously enhancing my skill set.
+Hello, I'm Swapnil Palsapure, currently pursuing a degree in Electronics and Telecommunication Engineering from GCOEN, with an expected graduation in 2025. Alongside my studies, I'm currently working on Building *Interactive PowerBI Dashboard, SQL Projects and Python Libraries*.Currently I'm exploring in *Machine Learning, NLP and Deep Learning Domain*. My passion for technology extends beyond just coding; I enjoy staying updated with the latest industry trends and continuously enhancing my skill set.
 </p>
 <p>
 In addition to my technical pursuits, I'm an fond of Playing Cricket,Meeting New People, Exploring. These hobbies not only provide me with entertainment but also inspire creativity and critical thinking, which I often apply to my professional work. I believe in maintaining a balanced lifestyle, where continuous learning and personal enjoyment go hand in hand.
