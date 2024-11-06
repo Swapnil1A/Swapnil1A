@@ -23,7 +23,7 @@ I'm always excited to take on new challenges, whether it's a complex project or 
 Whether it's a challenging tasks, a creative project, or a new recipe, I approach every task with enthusiasm and a problem-solving mindset. I'm always ready to learn, grow, and face new challenges, making me a versatile and reliable professional. 
 </p>
 
-
+# 💫 About Me:
 - 🔭 I’m currently working on ***PowerBI, SQL and Python Libraries***
 
 - 🌱 I’m currently learning ***Machine Learning, NLP, Deep Learning***
