@@ -6,7 +6,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFWQN8jhg3yeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724790934135?e=1730332800&v=beta&t=vfoU2AEFJ_mLXaB368u1Iqcn8CytFdNnMKTa3q6sd58">   
 <h1 align="center">Hi 👋, I'm Swapnil Palsapure</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<h3 align="center">A passionate Data Analyst/Data Scientist from India</h3>
+<h3 align="center">A Passionate Data Analyst/Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swapnil1A&label=Profile%20views&color=0e75b6&style=flat" alt="Swapnil1A" /> </p>
 
