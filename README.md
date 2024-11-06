@@ -55,4 +55,6 @@ Whether it's a challenging tasks, a creative project, or a new recipe, I approac
 
 
 ## 🏆 Achievements:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil1a" alt="swapnil1a" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=swapnil1a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
