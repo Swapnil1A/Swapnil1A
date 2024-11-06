@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Palsapure</h1>
 <h3 align="center">A passionate Data Analyst/Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil1a&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil1a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil1a" alt="swapnil1a" /></a> </p>
 
 - 🔭 I’m currently working on ***PowerBI, SQL and Python Libraries***
 
@@ -31,3 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil1a&show_icons=true&locale=en" alt="swapnil1a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil1a&" alt="swapnil1a" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil1a&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil1a" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil1a" alt="swapnil1a" /></a> </p>
