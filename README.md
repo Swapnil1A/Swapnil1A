@@ -26,7 +26,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil1a&show_icons=true&locale=en&layout=compact" alt="swapnil1a" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil1a&show_icons=true&locale=en" alt="swapnil1a" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil1a&" alt="swapnil1a" /></p>
 
