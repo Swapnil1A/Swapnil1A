@@ -25,7 +25,7 @@ I'm always excited to take on new challenges, whether it's a complex project or 
 Whether it's a challenging tasks, a creative project, or a new recipe, I approach every task with enthusiasm and a problem-solving mindset. I'm always ready to learn, grow, and face new challenges, making me a versatile and reliable professional. 
 </p>
 
-# 💫 About Me:
+# 💫 About Me :
 - 🔭 I’m currently working on ***PowerBI, SQL and Python Libraries***
 
 - 🌱 I’m currently learning ***Machine Learning, NLP, Deep Learning***
@@ -36,25 +36,25 @@ Whether it's a challenging tasks, a creative project, or a new recipe, I approac
 
 - 💬 Ask me about ***Marketing, Data Analysis, Python***
 
-- 📫 How to reach me ***swapnilpalsapure2001@gmail.com***
+- 📫 How to reach me  ***E-mail : swapnilpalsapure2001@gmail.com***
 
-# 🌐 Connect With Me:
+# 🌐 Connect With Me :
 <p align="left">
 <a href="https://linkedin.com/in/swapnil palsapure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil palsapure" height="30" width="40" /></a>
 <a href="https://instagram.com/swapnil_palsapure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swapnil_palsapure" height="30" width="40" /></a>
 </p>
 
-# 💻 Languages and Tools:
+# 💻 Languages and Tools :
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=swapnil1a&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swapnil1a&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil1a&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-## 🏆 Achievements:
+## 🏆 Achievements :
 ![](https://github-profile-trophy.vercel.app/?username=swapnil1a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
