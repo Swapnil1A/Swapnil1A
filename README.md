@@ -13,16 +13,16 @@
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <p>
-Hello, I'm Swapnil Palsapure, currently pursuing a degree in Electronics and Telecommunication Engineering from GCOEN, with an expected graduation in 2025. Alongside my studies, I'm currently working on Building *Interactive PowerBI Dashboard, SQL Projects and Python Libraries*.Currently I'm exploring in *Machine Learning, NLP and Deep Learning Domain*. My passion for technology extends beyond just coding; I enjoy staying updated with the latest industry trends and continuously enhancing my skill set.
+> Hello, I'm Swapnil Palsapure, currently pursuing a degree in Electronics and Telecommunication Engineering from GCOEN, with an expected graduation in 2025. Alongside my studies, I'm currently working on Building *Interactive PowerBI Dashboard, SQL Projects and Python Libraries*.Currently I'm exploring in *Machine Learning, NLP and Deep Learning Domain*. My passion for technology extends beyond just coding; I enjoy staying updated with the latest industry trends and continuously enhancing my skill set.
 </p>
 <p>
-In addition to my technical pursuits, I'm an fond of Playing Cricket,Meeting New People, Exploring. These hobbies not only provide me with entertainment but also inspire creativity and critical thinking, which I often apply to my professional work. I believe in maintaining a balanced lifestyle, where continuous learning and personal enjoyment go hand in hand.
+> In addition to my technical pursuits, I'm an fond of Playing Cricket,Meeting New People, Exploring. These hobbies not only provide me with entertainment but also inspire creativity and critical thinking, which I often apply to my professional work. I believe in maintaining a balanced lifestyle, where continuous learning and personal enjoyment go hand in hand.
 </p>
 <p>
-I'm always excited to take on new challenges, whether it's a complex project or a unique freelance opportunity. Let’s connect and explore how we can collaborate or share insights in the world of technology and entertainment.
+> I'm always excited to take on new challenges, whether it's a complex project or a unique freelance opportunity. Let’s connect and explore how we can collaborate or share insights in the world of technology and entertainment.
 </p>
 <p>
-Whether it's a challenging tasks, a creative project, or a new recipe, I approach every task with enthusiasm and a problem-solving mindset. I'm always ready to learn, grow, and face new challenges, making me a versatile and reliable professional. 
+> Whether it's a challenging tasks, a creative project, or a new recipe, I approach every task with enthusiasm and a problem-solving mindset. I'm always ready to learn, grow, and face new challenges, making me a versatile and reliable professional. 
 </p>
 
 # 💫 About Me :
