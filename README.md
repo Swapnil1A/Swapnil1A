@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swapnil1A&label=Profile%20views&color=0e75b6&style=flat" alt="Swapnil1A" /> </p>
 
-<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="250" width="350" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <p>
 > Hello, I'm Swapnil Palsapure, currently pursuing a degree in Electronics and Telecommunication Engineering from GCOEN, with an expected graduation in 2025. Alongside my studies, I'm currently working on Building *Interactive PowerBI Dashboard, SQL Projects and Python Libraries*.Currently I'm exploring in *Machine Learning, NLP and Deep Learning Domain*. My passion for technology extends beyond just coding; I enjoy staying updated with the latest industry trends and continuously enhancing my skill set.
