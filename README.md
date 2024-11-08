@@ -13,13 +13,13 @@
 <img align="right" height="250" width="350" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <p>
-> Hello, I'm Swapnil Palsapure, currently pursuing a degree in Electronics and Telecommunication Engineering from GCOEN, with an expected graduation in 2025. Alongside my studies, I'm currently working on Building Interactive PowerBI Dashboard, SQL Projects and Python Libraries.Currently I'm exploring in Machine Learning, NLP and Deep Learning Domain. My passion for technology extends beyond just coding; I enjoy staying updated with the latest industry trends and continuously enhancing my skill set.
+Hello, I'm Swapnil Palsapure, currently pursuing a degree in Electronics and Telecommunication Engineering from GCOEN, with an expected graduation in 2025. Alongside my studies, I'm currently working on Building Interactive PowerBI Dashboard, SQL Projects and Python Libraries.Currently I'm exploring in Machine Learning, NLP and Deep Learning Domain. My passion for technology extends beyond just coding; I enjoy staying updated with the latest industry trends and continuously enhancing my skill set.
 </p>
 <p>
-> Data-driven and results-oriented Data Analyst / Business Analyst with a proven track record in leveraging data to deliver actionable insights that drive business growth and operational efficiency. Skilled in creating visually compelling and interactive Power BI dashboards, performing exploratory data analysis (EDA), and utilizing SQL for robust data extraction and transformation. Proficient in DAX for advanced data modeling, as well as Python libraries (Pandas, NumPy, Matplotlib, and Seaborn) for data manipulation, analysis, and visualization.
+Data-driven and results-oriented Data Analyst / Business Analyst with a proven track record in leveraging data to deliver actionable insights that drive business growth and operational efficiency. Skilled in creating visually compelling and interactive Power BI dashboards, performing exploratory data analysis (EDA), and utilizing SQL for robust data extraction and transformation. Proficient in DAX for advanced data modeling, as well as Python libraries (Pandas, NumPy, Matplotlib, and Seaborn) for data manipulation, analysis, and visualization.
 </p>
 <p>
-> With a strong foundation in analytics and a keen eye for detail, I thrive on solving complex problems and uncovering patterns within data. Adept at translating business requirements into technical solutions, I empower stakeholders with data-driven insights to support strategic decision-making. A collaborative team player with a passion for continuous learning and a commitment to leveraging analytics to generate business value.
+With a strong foundation in analytics and a keen eye for detail, I thrive on solving complex problems and uncovering patterns within data. Adept at translating business requirements into technical solutions, I empower stakeholders with data-driven insights to support strategic decision-making. A collaborative team player with a passion for continuous learning and a commitment to leveraging analytics to generate business value.
 </p>
 
 # 💫 About Me :
